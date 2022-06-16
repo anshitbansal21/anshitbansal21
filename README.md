@@ -4,6 +4,7 @@
 - 💞️ I’m still understanding Github and plan to contribute to the community as much as possible
 - 📫 How to reach me : ab499@snu.edu.in
 - 😄 Pronouns: he/him
+- 📕 Currently reading - 365 Days of Discipline by Martin Meadows 
 
 <!---
 anshitbansal21/anshitbansal21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
