@@ -2,7 +2,7 @@
 - 👀 I’m still exploring what interests me and I am looking forward to make several projects in different domains to understand what I like.
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m still understanding Github and plan to contribute to the community as much as possible
-- 📫 How to reach me : ab499@snu.edu.in
+- 📫 How to reach me : anshitbansal215@gmail.com
 - 😄 Pronouns: he/him
 - 📕 Currently reading - Atomic Habits by James Clear 
 
