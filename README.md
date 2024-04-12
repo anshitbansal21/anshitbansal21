@@ -4,7 +4,7 @@
 - 💞️ I’m still understanding Github and plan to contribute to the community as much as possible
 - 📫 How to reach me : anshitbansal215@gmail.com
 - 😄 Pronouns: he/him
-- 📕 Currently reading - Atomic Habits by James Clear 
+- 📕 Currently reading - You don't know JS by Kyle Simpson
 
 <!---
 anshitbansal21/anshitbansal21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
